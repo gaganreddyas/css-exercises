@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.same {
+    background-color: rgb(255, 192, 203);
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+#unq1 {
+    color:#54b1d9;
+    font-size:36px;
+}
+.same.big {
+    font-size:24px;
+}
+#unq2 {
+    background-color:hsl(132 74% 60%);
+    font-size:24px;
+    font-weight:bold;
+}
